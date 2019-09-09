@@ -1,0 +1,6 @@
+c:\users\axel\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\Axel\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\Puissance4.exe.config
+C:\Users\Axel\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\Puissance4.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\Puissance4.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\Puissance4.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\Puissance4.pdb
